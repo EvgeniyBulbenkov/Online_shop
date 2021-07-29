@@ -1,5 +1,5 @@
-Online-Store
+# Online-Store
 
-# NodeJS + React.js
+NodeJS + React.js
 
-# Backend deployment process described in server/README.md
+Backend deployment process described in server/README.md
