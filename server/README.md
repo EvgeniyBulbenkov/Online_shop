@@ -17,14 +17,14 @@ Deployment:
 `npm i`
   
 - create file .env, containing fields:
-`PORT=  
+
+PORT=  
 DB_NAME=  
 DB_USER=  
 DB_PASSWORD=  
-DB_HOST=
-  
+DB_HOST= 
 DB_PORT=
-SECRET_KEY=`  
+SECRET_KEY=  
   
 - fill .env according to your configuration (if using docker, according to the docker-compose.yml)
 - (if using docker) run `docker-compose up` or start your postgress database
